@@ -15,3 +15,11 @@
 	cd ~/todo_rj
 
 	npm start
+
+# dependency:
+
+	live-server
+
+# pre-requirement
+
+	node version >= 4.x && npm version > 3.10.8 install
