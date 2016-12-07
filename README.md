@@ -1,6 +1,10 @@
-# ProjectName:  todo_rj_demo
+# ProjectName:
 
-# Entry app : index.html
+	todo_rj_demo
+
+# Entry app :
+
+	index.html
 
 # construct:
 
